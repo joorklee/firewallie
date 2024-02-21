@@ -20,7 +20,7 @@
 ## Screenshots
 
 ## Initial Window
-- ![initial screen](./Docs/initial-screen.png)
+![initial screen](./Docs/initial-screen.png)
 
 ## Blocking (prompt) Window
-- ![blocking prompt screen](./Docs/block-screen.png)
+![blocking prompt screen](./Docs/block-screen.png)
