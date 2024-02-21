@@ -19,8 +19,8 @@
 
 ## Screenshots
 
-## Initial Window
+### Initial Window
 ![initial screen](./Docs/initial-screen.png)
 
-## Blocking (prompt) Window
+### Blocking (prompt) Window
 ![blocking prompt screen](./Docs/block-screen.png)
