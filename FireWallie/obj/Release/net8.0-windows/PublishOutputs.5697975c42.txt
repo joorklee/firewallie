@@ -1,0 +1,5 @@
+C:\Users\Kyle\source\repos\FireWallie\FireWallie\bin\Release\net8.0-windows\publish\FireWallie.exe
+C:\Users\Kyle\source\repos\FireWallie\FireWallie\bin\Release\net8.0-windows\publish\FireWallie.dll
+C:\Users\Kyle\source\repos\FireWallie\FireWallie\bin\Release\net8.0-windows\publish\FireWallie.deps.json
+C:\Users\Kyle\source\repos\FireWallie\FireWallie\bin\Release\net8.0-windows\publish\FireWallie.runtimeconfig.json
+C:\Users\Kyle\source\repos\FireWallie\FireWallie\bin\Release\net8.0-windows\publish\FireWallie.pdb
